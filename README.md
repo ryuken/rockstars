@@ -5,6 +5,11 @@
 - Eslint (Code style)
 - JSON-server (backend)
 
+Je installeert als eerst de dependencies:
+```
+npm install
+```
+
 Om de applicatie te starten voer je de volgende commando uit:
 ```
 npm start
