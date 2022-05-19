@@ -46,6 +46,8 @@ Ik heb wel een test case gebouwd met Selenium. Om de Selenium test uit te voeren
 npm run selenium
 ```
 
+Meer info over selenium gebruiken: https://github.com/SeleniumHQ/selenium/tree/trunk/javascript/node/selenium-webdriver#readme
+
 # Extra requirements
 - Responsive applicatie
 - Vang onbekende urls af in routing
